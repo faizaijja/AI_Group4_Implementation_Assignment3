@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kigali International Conference",
+    "location": "Kigali Convention Centre",
+    "start_time": "2025-03-11 10:00:00",
+    "end_time": "2025-03-11 18:00:00",
+    "impact_level": "High",
+    "impact_description": "High traffic expected around KN 5 Rd",
+    "affected_intersections": ["KN 5 Rd / KG 7 Ave", "Convention Centre Roundabout"],
+    "transport_options": ["Shuttle Bus", "Alternative Routes"]
+  },
+  {
+    "title": "Kigali Jazz Festival",
+    "location": "Amahoro Stadium",
+    "start_time": "2025-03-12 16:00:00",
+    "end_time": "2025-03-12 22:00:00",
+    "impact_level": "Moderate",
+    "impact_description": "Moderate traffic expected around KN 3 Rd",
+    "affected_intersections": ["KN 3 Rd / KG 15 Ave"],
+    "transport_options": ["Public Transport", "Park & Ride"]
+  },
+  {
+    "title": "Rwanda Tech Summit",
+    "location": "Kigali Conference Center",
+    "start_time": "2025-03-15 09:00:00",
+    "end_time": "2025-03-17 17:00:00",
+    "impact_level": "High",
+    "impact_description": "Significant traffic around downtown area",
+    "affected_intersections": ["KN 5 Rd / KG 7 Ave", "Convention Centre Roundabout", "Kimihurura Roundabout"],
+    "transport_options": ["Special Shuttle Service", "Car Pooling", "Alternative Routes"]
+  }
+]

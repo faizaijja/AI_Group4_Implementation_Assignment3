@@ -1,0 +1,49 @@
+time,area,congestion
+12:00,Downtown,82.37
+12:00,Airport Area,65.84
+12:00,Convention Centre,93.35
+12:00,Residential Areas,43.87
+13:00,Downtown,90.00
+13:00,Airport Area,72.00
+13:00,Convention Centre,102.00
+13:00,Residential Areas,48.00
+14:00,Downtown,75.00
+14:00,Airport Area,60.00
+14:00,Convention Centre,85.00
+14:00,Residential Areas,40.00
+15:00,Downtown,82.50
+15:00,Airport Area,66.00
+15:00,Convention Centre,93.50
+15:00,Residential Areas,44.00
+16:00,Downtown,97.50
+16:00,Airport Area,78.00
+16:00,Convention Centre,110.50
+16:00,Residential Areas,52.00
+17:00,Downtown,112.50
+17:00,Airport Area,90.00
+17:00,Convention Centre,127.50
+17:00,Residential Areas,60.00
+18:00,Downtown,105.00
+18:00,Airport Area,84.00
+18:00,Convention Centre,119.00
+18:00,Residential Areas,56.00
+19:00,Downtown,90.00
+19:00,Airport Area,72.00
+19:00,Convention Centre,102.00
+19:00,Residential Areas,48.00
+20:00,Downtown,67.50
+20:00,Airport Area,54.00
+20:00,Convention Centre,76.50
+20:00,Residential Areas,36.00
+21:00,Downtown,52.50
+21:00,Airport Area,42.00
+21:00,Convention Centre,59.50
+21:00,Residential Areas,28.00
+22:00,Downtown,45.00
+22:00,Airport Area,36.00
+22:00,Convention Centre,51.00
+22:00,Residential Areas,24.00
+23:00,Downtown,37.50
+23:00,Airport Area,30.00
+23:00,Convention Centre,42.50
+23:00,Residential Areas,20.00

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "KN 5 Rd / KG 7 Ave",
+    "location": [-1.9500, 30.0600],
+    "status": "high",
+    "volume": 425,
+    "current_cycle": 120,
+    "cycle_history": [90, 100, 110, 120, 120]
+  },
+  {
+    "name": "KN 3 Rd / KG 15 Ave",
+    "location": [-1.9450, 30.0500],
+    "status": "medium",
+    "volume": 320,
+    "current_cycle": 90,
+    "cycle_history": [70, 80, 90, 90, 90]
+  },
+  {
+    "name": "Convention Centre Roundabout",
+    "location": [-1.9550, 30.0700],
+    "status": "medium",
+    "volume": 350,
+    "current_cycle": 100,
+    "cycle_history": [80, 90, 100, 100, 100]
+  },
+  {
+    "name": "Airport Roundabout",
+    "location": [-1.9700, 30.1300],
+    "status": "low",
+    "volume": 180,
+    "current_cycle": 60,
+    "cycle_history": [60, 60, 60, 60, 60]
+  },
+  {
+    "name": "Kimihurura Roundabout",
+    "location": [-1.9600, 30.0900],
+    "status": "low",
+    "volume": 210,
+    "current_cycle": 70,
+    "cycle_history": [70, 70, 70, 70, 70]
+  },
+  {
+    "name": "Nyabugogo-Town Rd",
+    "location": [-1.9350, 30.0400],
+    "status": "high",
+    "volume": 410,
+    "current_cycle": 110,
+    "cycle_history": [90, 100, 110, 110, 110]
+  },
+  {
+    "name": "Sonatubes-Rwandex",
+    "location": [-1.9650, 30.1000],
+    "status": "medium",
+    "volume": 310,
+    "current_cycle": 95,
+    "cycle_history": [80, 85, 90, 95, 95]
+  }
+]

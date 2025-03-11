@@ -1,0 +1,21 @@
+intersection,traffic_volume,time_of_day,weather,signal_time
+KN 5 Rd / KG 7 Ave,423,8,Clear,105
+KN 3 Rd / KG 15 Ave,287,8,Clear,85
+Convention Centre,356,8,Clear,95
+Airport Roundabout,198,8,Clear,62
+KN 5 Rd / KG 7 Ave,402,17,Clear,102
+KN 3 Rd / KG 15 Ave,321,17,Clear,90
+Convention Centre,378,17,Clear,97
+Airport Roundabout,211,17,Clear,65
+KN 5 Rd / KG 7 Ave,189,2,Clear,60
+KN 3 Rd / KG 15 Ave,143,2,Clear,45
+Convention Centre,167,2,Clear,50
+Airport Roundabout,87,2,Clear,30
+KN 5 Rd / KG 7 Ave,437,8,Rainy,110
+KN 3 Rd / KG 15 Ave,298,8,Rainy,88
+Convention Centre,369,8,Rainy,98
+Airport Roundabout,205,8,Rainy,64
+KN 5 Rd / KG 7 Ave,415,17,Rainy,105
+KN 3 Rd / KG 15 Ave,329,17,Rainy,92
+Convention Centre,389,17,Rainy,100
+Airport Roundabout,217,17,Rainy,67
